@@ -4,4 +4,7 @@ function test(){
 function test2(){
     console.log("Hellllo! This is my test222 app2222!!")
 }
-module.exports = { test, test2 };
+function test3(){
+    console.log("Hellllo! This is my test333 app2222!!")
+}
+module.exports = { test, test2, test3 };
