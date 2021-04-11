@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/kunalp726/testnpmpackage/compare/testkpnpmapp2-6@1.0.0...testkpnpmapp2-6@2.0.0) (2021-04-11)
+
+
+### Bug Fixes
+
+* **pkg:** foo bar ([f9dd896](https://github.com/kunalp726/testnpmpackage/commit/f9dd8965a8a6f1461fd793367f52fe8cb4a03c7d))
+
+
+### BREAKING CHANGES
+
+* **pkg:** baz
+
+
+
+
+
 # [1.0.0](https://github.com/kunalp726/testnpmpackage/compare/testkpnpmapp2-6@0.4.1...testkpnpmapp2-6@1.0.0) (2021-04-11)
 
 **Note:** Version bump only for package testkpnpmapp2-6
