@@ -2,12 +2,7 @@
   "name": "testkpnpm5",
   "version": "1.0.0",
   "description": "test",
-  "main": "index.js",
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }  
-  },  
+  "main": "index.js", 
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
