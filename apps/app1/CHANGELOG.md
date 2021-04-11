@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/kunalp726/testnpmpackage/compare/testkpnpmapp1-6@0.0.5...testkpnpmapp1-6@1.0.0) (2021-04-11)
+
+**Note:** Version bump only for package testkpnpmapp1-6
+
+
+
+
+
 ## [0.0.5](https://github.com/kunalp726/testnpmpackage/compare/testkpnpmapp1-6@0.0.4...testkpnpmapp1-6@0.0.5) (2021-04-11)
 
 

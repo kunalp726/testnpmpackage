@@ -1,6 +1,6 @@
 {
   "name": "testkpnpmapp1-6",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "test app1",
   "main": "index.js",
   "scripts": {
