@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/kunalp726/testnpmpackage/compare/testkpnpmapp2-6@0.2.0...testkpnpmapp2-6@0.3.0) (2021-04-11)
+
+
+### Bug Fixes
+
+* something ([99ce50a](https://github.com/kunalp726/testnpmpackage/commit/99ce50a4b0a9255dd505dd12c542a5c7ce4f5eaf))
+
+
+### BREAKING CHANGES
+
+* this is breaking
+
+
+
+
+
 # [0.2.0](https://github.com/kunalp726/testnpmpackage/compare/testkpnpmapp2-6@0.1.0...testkpnpmapp2-6@0.2.0) (2021-04-11)
 
 
