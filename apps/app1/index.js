@@ -1,4 +1,4 @@
 function test(){
-    console.log("Hello! This is my test app1111111!!")
+    console.log("Hello! This is my test app1!!")
 }
 module.exports = { test };
