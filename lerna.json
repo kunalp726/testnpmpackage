@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "apps/app1",
+    "apps/app2"
+  ],
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "message": "chore(release): publish"
+    }
+  },
+  "version": "independent"
+}
